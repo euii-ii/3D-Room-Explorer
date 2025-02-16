@@ -31,7 +31,7 @@ This project is a 3D room built using **React**, **Vite**, **Three.js**, and **T
 
 1. **Clone the repository**
    ```sh
-   git clone 
+   git clone https://github.com/euii-ii/3d-room-pt-2.git
    cd 3d-room
    ```
 
