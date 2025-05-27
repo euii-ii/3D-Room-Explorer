@@ -2,6 +2,12 @@
 
 > An immersive 3D room visualization built with modern web technologies
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)](https://threejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 Experience a fully interactive 3D room environment with realistic furniture, lighting, and physics. Built with **Vite**, **Three.js**, **TypeScript**, **JavaScript**, and **Tailwind CSS** for optimal performance and developer experience.
 
 ## ✨ Features
